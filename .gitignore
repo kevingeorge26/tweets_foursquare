@@ -1,0 +1,5 @@
+*.pyc
+
+# not keeping the database anymore
+*.sqlite
+*.db
